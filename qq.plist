@@ -15,7 +15,7 @@
 				</dict>
 				<dict>
 					<key>kind</key>
-					<string>full-size-image</string>
+					<string>display-image</string>
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
@@ -23,7 +23,7 @@
 				</dict>
 				<dict>
 					<key>kind</key>
-					<string>display-image</string>
+					<string>full-size-image</string>
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
@@ -33,15 +33,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.yitong.xwx.twp1</string>
+				<string>com.laiwang.DingTalk</string>
 				<key>bundle-version</key>
-				<string>7.0.3</string>
+				<string>4.6.40</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>微信</string>
+				<string>钉钉</string>
 				<key>title</key>
-				<string>微信</string>
+				<string>钉钉-更多福利关注公众号“Cydialmg”</string>
 			</dict>
 		</dict>
 	</array>
