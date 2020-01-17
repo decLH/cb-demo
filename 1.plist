@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://118.25.4.28/11.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://www.cydialmg.cc/mianfei/index_files/lmg.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://www.cydialmg.cc/mianfei/index_files/lmg.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.ddln.bl1441</string>
+				<key>bundle-version</key>
+				<string>7.0.3</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>零秒队长Pro</string>
+				<key>title</key>
+				<string>零秒队长Pro-后期更新请关注微信公众号：Cydialmg</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
+×
+拖拽到此处
+图片将完成下载
